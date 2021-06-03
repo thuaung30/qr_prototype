@@ -19,3 +19,5 @@ Since this repo is a prototyp, there is no control over which data to encode int
 `flutter run`
 
 4. Press "Save to gallery" and check the saved qr code in gallery.
+
+**Reminder**: This app is only tested on android (Pixel 3A API 30 x86) as of now, so there might be inconsistencies with IOS devices regarding permission issues and such since IOS is stricter with its permission policies.
